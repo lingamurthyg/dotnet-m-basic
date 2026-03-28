@@ -9,6 +9,7 @@
 > Each file contains inline `// VIOLATION <ruleId>:` comments at every
 > violation site for precise scanner alignment.
 
+TESTERS: Please refer to Violation_Traceability_Matrix.csv for source file name, line number, rule name and rule description traceability.
 ---
 
 ## Summary by Folder
